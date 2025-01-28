@@ -1,0 +1,8 @@
+{
+  "name": "expresso",
+  "version": "1.0.0",
+  "description": "http framework",
+  "main": "index.js",
+  "author": "Denis Lit <denis.lit@intail.ai>",
+  "license": "MIT"
+}
